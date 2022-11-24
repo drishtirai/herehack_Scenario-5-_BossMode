@@ -1,19 +1,19 @@
-## herehack_Scenario-5_BossMode
-## Shop-Lock
+# herehack_Scenario-5_BossMode
+# Shop-Lock
 
 ## “Location of Shop to Lock”
 
-# 🛒 Problem Statement
+## 🛒 Problem Statement
 
 Senario 5: Predict best suited location for shop/ATM/Billboard etc. based on geo location data and visualize on maps
 
-# 💡 Solution
+## 💡 Solution
 
 Get most suitable land for your Shop: This App will auto suggest suitable places to buy land for particular type of shop.
 Priortize and filter: Users can apply filter like money of land, land size, locality, type of community according to their need.
 Connect and Buy in no time: Customer can connect to land provider and buy in different payment modes available.
 
-# 🔑 Factors we will be considering for best suited land suggestions
+## 🔑 Factors we will be considering for best suited land suggestions
 
 AnalysingThe Neighbourhood: 
 
@@ -25,7 +25,7 @@ Connectivity around that land:
 
 Proper connectivity through roads, metro, railways etc.
 
-# 🛠 Languages, Technologies And Tools
+## 🛠 Languages, Technologies And Tools
 
 - Schemas
 - Content Management Systems
@@ -37,7 +37,7 @@ Proper connectivity through roads, metro, railways etc.
 - Sanity SDK
 - React Hooks
 
-# ⛓️Created & Maintained By
+## ⛓️Created & Maintained By
 
 Drishti Rai Email: E20CSE495@bennett.edu.in
 
