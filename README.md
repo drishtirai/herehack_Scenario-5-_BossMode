@@ -1,7 +1,7 @@
-# herehack_Scenario-5_BossMode
-# Shop-Lock
+## herehack_Scenario-5_BossMode
+## Shop-Lock
 
-# “Location of Shop to Lock”
+## “Location of Shop to Lock”
 
 # 🛒 Problem Statement
 
