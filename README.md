@@ -1,4 +1,4 @@
-# herehack_Scenario-5_BossMode
+# herehack_s5_BossMode
 # Shop-Lock
 
 ## “Location of Shop to Lock”
