@@ -35,7 +35,8 @@ Proper connectivity through roads, metro, railways etc.
 - Next.js
 - ServerSideProps
 - Sanity SDK
-- React Hooks
+- Html
+- Css
 
 ## Website UI/UX
 
